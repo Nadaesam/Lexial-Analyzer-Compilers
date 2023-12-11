@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701567537 source:d:\fcai 4\compilers\ass3_compilers\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
